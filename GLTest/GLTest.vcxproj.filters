@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Graphics_Window.cpp">
+    <ClCompile Include="Graphics_Rectangles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

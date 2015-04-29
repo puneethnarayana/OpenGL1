@@ -1,14 +1,15 @@
-﻿Build started 29-04-2015 10:33:16.
+﻿Build started 29-04-2015 10:35:08.
      1>Project "C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\GLTest\GLTest.vcxproj" on node 2 (Build target(s)).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Graphics_Rectangles.cpp
-         Graphics_Rectangles.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Graphics_GridInitialization.cpp
+         Skipping... (no relevant changes detected)
+         Graphics_GridInitialization.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.lib" /MACHINE:X86 Debug\Graphics_Rectangles.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.lib" /MACHINE:X86 Debug\Graphics_GridInitialization.obj
          GLTest.vcxproj -> C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\Debug\OpenGL1.exe
      1>Done Building Project "C:\Users\puneeth.narayana\Documents\Visual Studio 2012\Projects\GLTest\GLTest\GLTest.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.36
+Time Elapsed 00:00:00.85

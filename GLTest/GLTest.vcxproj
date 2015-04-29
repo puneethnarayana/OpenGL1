@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Graphics_Rectangles.cpp" />
+    <ClCompile Include="Graphics_GridInitialization.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{413239CA-E27A-49E6-AB17-C8C4FD0C167E}</ProjectGuid>

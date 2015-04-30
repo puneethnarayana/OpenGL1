@@ -16,6 +16,8 @@
     <ClCompile Include="Graphics_Template.cpp" />
     <ClCompile Include="Graphics_Window.cpp" />
     <ClCompile Include="LineSegment.cpp" />
+    <ClCompile Include="ProjectileMotion.cpp" />
+    <ClCompile Include="Solar_1.cpp" />
     <ClCompile Include="SunRays.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

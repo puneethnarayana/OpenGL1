@@ -39,5 +39,8 @@
     <ClCompile Include="SunRays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HaloweenSpecial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

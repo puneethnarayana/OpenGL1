@@ -15,6 +15,7 @@
     <ClCompile Include="Graphics_Rectangles.cpp" />
     <ClCompile Include="Graphics_Template.cpp" />
     <ClCompile Include="Graphics_Window.cpp" />
+    <ClCompile Include="HaloweenSpecial.cpp" />
     <ClCompile Include="LineSegment.cpp" />
     <ClCompile Include="ProjectileMotion.cpp" />
     <ClCompile Include="Solar_1.cpp" />
